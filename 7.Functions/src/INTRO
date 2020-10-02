@@ -1,0 +1,8 @@
+PARAMETERS          DETAILS
+Name                Name of the function
+Params              Values given to the function with a name and type: Name:Type
+Type                Return type of the function
+Type Argument       Type parameter used in generic programming (not necessarily return type)
+ArgName             Name of value given to the function
+ArgType             Type specifier for
+ArgName             ArgNames List of ArgName separated by commas
