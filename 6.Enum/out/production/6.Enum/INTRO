@@ -1,0 +1,3 @@
+1. Enum classes as any other classes can have a constructor and be initialized
+
+2. Enums can be mutable, this is another way to obtain a singleton behavior:
